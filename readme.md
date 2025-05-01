@@ -22,13 +22,9 @@ The **Automated Transcription System** is an application designed to transcribe 
 - Whisper model (for transcription)
 
 
-Future Scope
-Multiple Language Support: Implement transcription for multiple languages using the Whisper model.
-
-Web Interface: Create a simple web interface where users can upload their media files for transcription.
-
-Audio Enhancement: Implement audio enhancement techniques to improve transcription accuracy.
-
-Batch Processing: Enable batch processing of multiple files at once, with an option to upload and transcribe in bulk.
-
-Cloud Integration: Allow users to upload files directly from cloud storage services (e.g., Google Drive, AWS S3) and get transcriptions.
+Future Scope:
+- **Multiple Language Support**: Implement transcription for multiple languages using the Whisper model.
+- **Web Interface**: Create a simple web interface where users can upload their media files for transcription.
+- **Audio Enhancement**: Implement audio enhancement techniques to improve transcription accuracy.
+- **Batch Processing**: Enable batch processing of multiple files at once, with an option to upload and transcribe in bulk.
+- **Cloud Integration**: Allow users to upload files directly from cloud storage services (e.g., Google Drive, AWS S3) and get transcriptions.
