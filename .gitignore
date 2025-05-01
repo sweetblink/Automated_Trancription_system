@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+env/
+venv/
+
+# Runtime-generated file
+processed_files.json
+
+# Ignore extracted audio and transcript files
+Whisper_project/*.wav
+Whisper_project/*.txt
